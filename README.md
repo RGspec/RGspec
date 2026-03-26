@@ -1,16 +1,16 @@
-## Hi there 👋
+# RGspec
+*Building high-performance agentic systems.*
+🛠️ Tech: React, TypeScript, Vite
+---
 
-<!--
-**RGspec/RGspec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Currently Building
+- **[Aphelion-UI](https://github.com/RGspec/aphelion-ui):** A high-performance data-flow visualizer for React architectures.
+- **Aphelion-Extension (Grant Project):** An agentic performance auditor for web interfaces (Work In Progress).
 
-Here are some ideas to get you started:
+### 🧠 Technical Focus
+- **Frameworks:** React, Node.js.
+- **Interests:** Developer tools, 60fps data viz, and Chrome Extension internals.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Connect with me
+- **GitHub:** [RGspec](https://github.com/RGspec)
+- **Discord:** [rgspec](https://discord.com/rgspec)
